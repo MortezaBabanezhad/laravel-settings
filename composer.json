@@ -23,7 +23,7 @@
   },
   "require-dev": {
     "orchestra/testbench": "3.8.*|4.*|5.*",
-    "mockery/mockery": "^0.9.4 || ~1.0",
+    "mockery/mockery": "^1.4.3",
     "phpunit/phpunit": "^9.5.2"
   },
   "autoload": {
